@@ -24,7 +24,9 @@ A campus navigation application that finds the shortest route between locations 
 
 ## Screenshot
 
-![Application Interface](images/antar_muka_app.png)
+<img src="images/antar_muka_app.png" alt="Application Interface" width="600"/>
+<img src="images/graph_dist.png" alt="Graph Distance" width="600"/>
+<img src="images/graph.png" alt="Graph" width="600"/>
 
 ## Algorithms
 
